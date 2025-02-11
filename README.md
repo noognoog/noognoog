@@ -13,7 +13,6 @@
 - Snowflake BUILD 2023 참석
 - ‘핸즈온 비지도 학습' 도서 베타리더 참가
 <br/>
-<br/>
 
 ## 📱Projects  
 
@@ -40,7 +39,6 @@
 #### <img src="https://github.com/noognoog/image_repository/blob/main/ddoksori_playstore.png?raw=true" width="30" height="30" /> 똑소리
 > **사회초년생, 청년들을 위한 필수 용어사전 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.ddoksori.musubi94)  
-<br/>
 <br/>
 
 ## ✨ Tools & Tech Stack 
