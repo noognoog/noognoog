@@ -16,27 +16,27 @@
 
 ## 📱 My Projects  
 
-#### <img src="https://github.com/noognoog/image_repository/blob/main/assistant_playstore.png?raw=true" width="20" height="20" /> 만다라트 캘린더 
+#### <img src="https://github.com/noognoog/image_repository/blob/main/mandalart_playstore.png?raw=true" width="40" height="40" /> 만다라트 캘린더 
 > **만다라트 양식과 캘린더를 합쳐 목표 관리에 도움을 주는 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.mandalart_calendar.musubi94)  
 
-#### 📝 어시스트앤트
+#### <img src="https://github.com/noognoog/image_repository/blob/main/assistant_playstore.png?raw=true" width="40" height="40" /> 어시스트앤트
 > **한국 수출 데이터를 바탕으로 투자 의사결정을 도와주는 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.invest_assistant.hyunwookmusubi)  
 
-#### 📝 필사포엠
+#### <img src="https://github.com/noognoog/image_repository/blob/main/feelsapoem_playstore?raw=true" width="40" height="40" /> 필사포엠
 > **한국의 유명한 시인들의 아름다운 시를 감상하고 직접 필사할 수 있는 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.feels_a_poem.musubi94)  
 
-#### 📝 한국어 퀴즈
+#### <img src="https://github.com/noognoog/image_repository/blob/main/korean_playstore?raw=true" width="40" height="40" /> 한국어 퀴즈
 > **간단한 퀴즈를 통해 평소에 헷갈렸던 맞춤법, 아름다운 순우리말, 다양한 어휘를 학습해볼 수 있는 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.korean_quiz.musubi94)
 
-#### 📝 불경 필사
+#### <img src="https://github.com/noognoog/image_repository/blob/main/buddha_playstore?raw=true" width="40" height="40" /> 불경 필사
 > **불경필사 앱은 부처님의 말씀을 감상하고 직접 필사할 수 있는 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.buddha_scripture.musubi94)
 
-#### 📝 똑소리
+#### <img src="https://github.com/noognoog/image_repository/blob/main/ddoksori_playstore?raw=true" width="40" height="40" /> 똑소리
 > **사회초년생, 청년들을 위한 필수 용어사전 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.ddoksori.musubi94)  
 
