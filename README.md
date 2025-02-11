@@ -3,7 +3,7 @@
 통계학을 전공하고 5년간 데이터 사이언티스트로 근무하다가 현재는 웹/앱개발을 하고 있습니다.
 <br/>
 <br/>
-## 🚩 Career & Activity 
+## 🚩Career & Activity 
 - 고려대학교(서울), 통계학 전공(2013.3~2019.2)
 - 롯데면세점 빅데이터팀(2019.7~2024.4)
 - 제3회 삼성 AI 포럼 참석
@@ -14,7 +14,7 @@
 - ‘핸즈온 비지도 학습' 도서 베타리더 참가
 <br/>
 
-## 📱 My Projects  
+## 📱Projects  
 
 #### <img src="https://github.com/noognoog/image_repository/blob/main/mandalart_playstore.png?raw=true" width="30" height="30" /> 만다라트 캘린더 
 > **만다라트 양식과 캘린더를 합쳐 목표 관리에 도움을 주는 앱입니다.**
