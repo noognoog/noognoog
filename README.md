@@ -1,7 +1,10 @@
 ## 덤벼라 세상아👋
 머리 속의 상상을 현실로 만드는 걸 좋아합니다.<br/>
 통계학을 전공하고 5년간 데이터 사이언티스트로 근무하다가 현재는 웹/앱개발을 하고 있습니다.
-!<img src="https://github.com/noognoog/image_repository/blob/main/chiikawa.gif" width="50" height="50" />
+<br/>
+<div style="text-align: center;">
+  <img src="https://github.com/noognoog/image_repository/blob/main/chiikawa.gif" width="200" height="200" />
+</div>
 <br/>
 <br/>
 ## 🚩Career & Activity 
