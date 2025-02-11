@@ -16,7 +16,7 @@
 
 ## 📱 My Projects  
 
-#### 📝 만다라트 캘린더
+#### <img src="https://github.com/noognoog/image_repository/blob/main/assistant_playstore.png?raw=true" width="20" height="20" /> 만다라트 캘린더 
 > **만다라트 양식과 캘린더를 합쳐 목표 관리에 도움을 주는 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.mandalart_calendar.musubi94)  
 
