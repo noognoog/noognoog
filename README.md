@@ -40,10 +40,12 @@
 > **사회초년생, 청년들을 위한 필수 용어사전 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.ddoksori.musubi94)  
 
-<h3>✨ Tech Stack ✨</h3>
+<h3>✨ Tools & Tech Stack ✨</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+</div>
 
 <!--
 **noognoog/noognoog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
