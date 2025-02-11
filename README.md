@@ -1,5 +1,10 @@
-## Hi there 👋
+## 👋
 머리 속의 상상을 현실로 만드는 걸 좋아합니다.
+통계학을 전공하고 데이터 사이언티스트로 근무하다가 현재는 웹/앱개발을 하고 있습니다.
+
+<h3 align="center">✨ Tech Stack ✨</h3>
+
+
 <!--
 **noognoog/noognoog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
