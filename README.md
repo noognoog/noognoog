@@ -14,6 +14,7 @@
 - ‘핸즈온 비지도 학습' 도서 베타리더 참가
 <br/>
 <br/>
+
 ## 📱Projects  
 
 #### <img src="https://github.com/noognoog/image_repository/blob/main/mandalart_playstore.png?raw=true" width="30" height="30" /> 만다라트 캘린더 
@@ -41,6 +42,7 @@
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.ddoksori.musubi94)  
 <br/>
 <br/>
+
 ## ✨ Tools & Tech Stack 
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
