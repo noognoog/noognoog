@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+머리 속의 상상을 현실로 만드는 걸 좋아합니다.
 <!--
 **noognoog/noognoog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
