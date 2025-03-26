@@ -26,6 +26,10 @@
 > **만다라트 양식과 캘린더를 합쳐 목표 관리에 도움을 주는 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.mandalart_calendar.musubi94)  
 
+#### <img src="https://github.com/noognoog/image_repository/blob/main/mandalart_playstore.png?raw=true" width="30" height="30" /> 만다라트 캘린더 
+> **여러 개의 만다라트를 바탕으로 주제별로 목표를 관리할 수 있는 앱입니다.**
+🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.multi_mandalart.musubi94)  
+
 #### <img src="https://github.com/noognoog/image_repository/blob/main/assistant_playstore.png?raw=true" width="30" height="30" /> 어시스트앤트
 > **한국 수출 데이터를 바탕으로 투자 의사결정을 도와주는 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.invest_assistant.hyunwookmusubi)  
