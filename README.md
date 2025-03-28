@@ -20,7 +20,7 @@
 - ‘핸즈온 비지도 학습' 도서 베타리더 참가
 <br/>
 
-## 📱Projects  
+## 📱App Projects  
 
 #### <img src="https://github.com/noognoog/image_repository/blob/main/mandalart_playstore.png?raw=true" width="30" height="30" /> 만다라트 캘린더 
 > **만다라트 양식과 캘린더를 합쳐 목표 관리에 도움을 주는 앱입니다.**
@@ -50,6 +50,9 @@
 > **사회초년생, 청년들을 위한 필수 용어사전 앱입니다.**
 🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.ddoksori.musubi94)  
 <br/>
+
+## 🌐 Web Projects
+
 
 ## ✨ Tools & Tech Stack 
 <div align="center">
