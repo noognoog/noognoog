@@ -59,6 +59,13 @@
 <br/>
 <br/>
 
+#### <img src="https://github.com/noognoog/image_repository/blob/main/youtube-comment-guard-logo.png?raw=true" width="30" height="30" /> youtube-comment-guard
+> **등록한 키워드를 포함한 유튜브 댓글을 블러처리/제거할 수 있는 chrome extension입니다.**
+🔗 승인 대기중
+<br/>
+<br/>
+
+
 ## ✨ Tools & Tech Stack 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp
