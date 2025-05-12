@@ -55,7 +55,7 @@
 
 #### <img src="https://github.com/noognoog/image_repository/blob/main/clothbox-logo.jpg?raw=true" width="30" height="30" /> 전국 의류수거함 지도
 > **현재위치/지역선택으로 주변 의류수거함을 확인할 수 있는 웹 서비스입니다.**
-🔗 [전국의류수거함지도](https://www.clothbin.kr)     
+🔗 [의류수거함 위치 안내 서비스](https://www.clothbin.kr)     
 <br/>
 <br/>
 
