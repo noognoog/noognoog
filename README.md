@@ -18,6 +18,7 @@
 - 2023 Tableau AI DAY 참석
 - Snowflake BUILD 2023 참석
 - ‘핸즈온 비지도 학습' 도서 베타리더 참가
+- 멋쟁이사자처럼 프론트엔드 부트캠프(2025.02~)
 <br/>
 
 ## 📱App Projects  
