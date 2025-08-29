@@ -66,6 +66,14 @@
 <br/>
 <br/>
 
+#### <img src="https://github.com/noognoog/image_repository/blob/main/hide_gemini_aioverview.png?raw=true" width="30" height="30" /> Hide Google Gemini AI Overview
+> **구글링 할 때 Google Gemini AI 개요를 없애주는 chrome extension입니다.**
+🔗 [Hide Google Gemini AI Overview](https://chromewebstore.google.com/detail/hide-google-gemini-ai-ove/gomhhddlcjoidfjlgnbhfacjpedjhace?hl=ko&utm_source=ext_sidebar)
+<br/>
+<br/>
+
+
+
 
 ## ✨ Tools & Tech Stack 
 <div align="center">
