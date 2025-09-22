@@ -11,7 +11,6 @@
 ## 🚩Career & Activity 
 - 고려대학교(서울), 통계학 전공(2013.3~2019.2)
 - 롯데면세점 빅데이터팀(2019.7~2024.4)
-- 크래프톤 딥러닝본부(2024.5~2024.10)
 - 제3회 삼성 AI 포럼 참석
 - AI Summit seoul 참석
 - AWS re:Invent 2023 참석
@@ -72,7 +71,11 @@
 <br/>
 <br/>
 
-
+#### <img src="https://github.com/noognoog/image_repository/blob/main/funterest_logo.png?raw=true" width="30" height="30" /> Hide Google Gemini AI Overview
+> **쓸모있는 도구들과 심심할 때 하기 좋은 것들 모아놓은 아카이브, 펀터레스트**
+🔗 [펀터레스트](https://funterest.net/)
+<br/>
+<br/>
 
 
 ## ✨ Tools & Tech Stack 
