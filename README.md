@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-#### <img src="https://github.com/noognoog/image_repository/blob/main/funterest_logo.png?raw=true" width="30" height="30" /> Hide Google Gemini AI Overview
+#### <img src="https://github.com/noognoog/image_repository/blob/main/funterest_logo.png?raw=true" width="30" height="30" /> 펀터레스트.net
 > **쓸모있는 도구들과 심심할 때 하기 좋은 것들 모아놓은 아카이브, 펀터레스트**
 🔗 [펀터레스트](https://funterest.net/)
 <br/>
