@@ -77,6 +77,11 @@
 <br/>
 <br/>
 
+#### <img src="https://github.com/noognoog/image_repository/blob/main/funterest_logo.png?raw=true" width="30" height="30" /> 
+> **투자에 참고할 수출입 데이터를 조회할 수 있는 투자 어시스턴트**
+🔗 [펀터레스트](https://funterest.net/)
+<br/>
+<br/>
 
 ## ✨ Tools & Tech Stack 
 <div align="center">
