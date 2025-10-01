@@ -85,6 +85,13 @@
 <br/>
 <br/>
 
+#### <img src="https://github.com/noognoog/image_repository/blob/main/assistant_web_logo.png?raw=true" width="30" height="30" /> 
+> **투자에 참고할 수출입 데이터를 조회할 수 있는 웹서비스입니다.**
+🔗 [어시스트앤트 웹 서비스](https://www.tradedata.kr/)
+<br/>
+<br/>
+
+
 ## ✨ Tools & Tech Stack 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp
