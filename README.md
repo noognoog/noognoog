@@ -42,11 +42,71 @@
 
 #### <img src="https://github.com/noognoog/image_repository/blob/main/korean_playstore.png?raw=true" width="30" height="30" /> 한국어 퀴즈
 > **간단한 퀴즈를 통해 평소에 헷갈렸던 맞춤법, 아름다운 순우리말, 다양한 어휘를 학습해볼 수 있는 앱입니다.**
-🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?스
+🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.korean_quiz.musubi94)
+
+#### <img src="https://github.com/noognoog/image_repository/blob/main/buddha_playstore.png?raw=true" width="30" height="30" /> 불경 필사
+> **불경필사 앱은 부처님의 말씀을 감상하고 직접 필사할 수 있는 앱입니다.**
+🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.buddha_scripture.musubi94)
+
+#### <img src="https://github.com/noognoog/image_repository/blob/main/ddoksori_playstore.png?raw=true" width="30" height="30" /> 똑소리
+> **사회초년생, 청년들을 위한 필수 용어사전 앱입니다.**
+🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.ddoksori.musubi94)  
+<br/>
+
+## 🌐 Web Projects
+
+#### <img src="https://github.com/noognoog/image_repository/blob/main/clothbox-logo.jpg?raw=true" width="30" height="30" /> 전국 의류수거함 지도
+> **현재위치/지역선택으로 주변 의류수거함을 확인할 수 있는 웹 서비스입니다.**
+🔗 [의류수거함 위치 안내 서비스](https://www.clothbin.kr)     
+<br/>
+<br/>
+
+#### <img src="https://github.com/noognoog/image_repository/blob/main/youtube-comment-guard-logo.png?raw=true" width="30" height="30" /> youtube-comment-guard
+> **등록한 키워드를 포함한 유튜브 댓글을 블러처리/제거할 수 있는 chrome extension입니다.**
+🔗 [Youtube Comment Guard](https://chromewebstore.google.com/detail/youtube-comment-guard/febnakbhaeacaemdhhnlnekejjeooogg?hl=ko&utm_source=ext_sidebar)
+<br/>
+<br/>
+
+#### <img src="https://github.com/noognoog/image_repository/blob/main/hide_gemini_aioverview.png?raw=true" width="30" height="30" /> Hide Google Gemini AI Overview
+> **구글링 할 때 Google Gemini AI 개요를 없애주는 chrome extension입니다.**
+🔗 [Hide Google Gemini AI Overview](https://chromewebstore.google.com/detail/hide-google-gemini-ai-ove/gomhhddlcjoidfjlgnbhfacjpedjhace?hl=ko&utm_source=ext_sidebar)
+<br/>
+<br/>
+
+#### <img src="https://github.com/noognoog/image_repository/blob/main/funterest_logo.png?raw=true" width="30" height="30" /> 펀터레스트.net
+> **쓸모있는 도구들과 심심할 때 하기 좋은 것들 모아놓은 아카이브, 펀터레스트**
+🔗 [펀터레스트](https://funterest.net/)
+<br/>
+<br/>
+
+#### <img src="https://github.com/noognoog/image_repository/blob/main/assistant_web_logo.png?raw=true" width="30" height="30" /> 어시스트앤트 웹 서비스
 > **투자에 참고할 수출입 데이터를 조회할 수 있는 웹서비스입니다.**
 🔗 [어시스트앤트 웹 서비스](https://www.tradedata.kr/)
 <br/>
 <br/>
+
+
+## ✨ Tools & Tech Stack 
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/awslambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> &nbsp
+</div>
 
 
 ## ✨ Tools & Tech Stack 
