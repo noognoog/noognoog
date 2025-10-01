@@ -34,52 +34,7 @@
 
 #### <img src="https://github.com/noognoog/image_repository/blob/main/assistant_playstore.png?raw=true" width="30" height="30" /> 어시스트앤트
 > **한국 수출 데이터를 바탕으로 투자 의사결정을 도와주는 앱입니다.**
-🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.invest_assistant.hyunwookmusubi)  
-
-#### <img src="https://github.com/noognoog/image_repository/blob/main/feelsapoem_playstore.png?raw=true" width="30" height="30" /> 필사포엠
-> **한국의 유명한 시인들의 아름다운 시를 감상하고 직접 필사할 수 있는 앱입니다.**
-🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.feels_a_poem.musubi94)  
-
-#### <img src="https://github.com/noognoog/image_repository/blob/main/korean_playstore.png?raw=true" width="30" height="30" /> 한국어 퀴즈
-> **간단한 퀴즈를 통해 평소에 헷갈렸던 맞춤법, 아름다운 순우리말, 다양한 어휘를 학습해볼 수 있는 앱입니다.**
-🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.korean_quiz.musubi94)
-
-#### <img src="https://github.com/noognoog/image_repository/blob/main/buddha_playstore.png?raw=true" width="30" height="30" /> 불경 필사
-> **불경필사 앱은 부처님의 말씀을 감상하고 직접 필사할 수 있는 앱입니다.**
-🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.buddha_scripture.musubi94)
-
-#### <img src="https://github.com/noognoog/image_repository/blob/main/ddoksori_playstore.png?raw=true" width="30" height="30" /> 똑소리
-> **사회초년생, 청년들을 위한 필수 용어사전 앱입니다.**
-🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.ddoksori.musubi94)  
-<br/>
-
-## 🌐 Web Projects
-
-#### <img src="https://github.com/noognoog/image_repository/blob/main/clothbox-logo.jpg?raw=true" width="30" height="30" /> 전국 의류수거함 지도
-> **현재위치/지역선택으로 주변 의류수거함을 확인할 수 있는 웹 서비스입니다.**
-🔗 [의류수거함 위치 안내 서비스](https://www.clothbin.kr)     
-<br/>
-<br/>
-
-#### <img src="https://github.com/noognoog/image_repository/blob/main/youtube-comment-guard-logo.png?raw=true" width="30" height="30" /> youtube-comment-guard
-> **등록한 키워드를 포함한 유튜브 댓글을 블러처리/제거할 수 있는 chrome extension입니다.**
-🔗 [Youtube Comment Guard](https://chromewebstore.google.com/detail/youtube-comment-guard/febnakbhaeacaemdhhnlnekejjeooogg?hl=ko&utm_source=ext_sidebar)
-<br/>
-<br/>
-
-#### <img src="https://github.com/noognoog/image_repository/blob/main/hide_gemini_aioverview.png?raw=true" width="30" height="30" /> Hide Google Gemini AI Overview
-> **구글링 할 때 Google Gemini AI 개요를 없애주는 chrome extension입니다.**
-🔗 [Hide Google Gemini AI Overview](https://chromewebstore.google.com/detail/hide-google-gemini-ai-ove/gomhhddlcjoidfjlgnbhfacjpedjhace?hl=ko&utm_source=ext_sidebar)
-<br/>
-<br/>
-
-#### <img src="https://github.com/noognoog/image_repository/blob/main/funterest_logo.png?raw=true" width="30" height="30" /> 펀터레스트.net
-> **쓸모있는 도구들과 심심할 때 하기 좋은 것들 모아놓은 아카이브, 펀터레스트**
-🔗 [펀터레스트](https://funterest.net/)
-<br/>
-<br/>
-
-#### <img src="https://github.com/noognoog/image_repository/blob/main/assistant_web_logo.png?raw=true" width="30" height="30" /> 
+🔗 [Google Play에서 보기](https://play.google.com/store/apps/details?id=com.invest_assistant.hyunwookmusubi)스
 > **투자에 참고할 수출입 데이터를 조회할 수 있는 웹서비스입니다.**
 🔗 [어시스트앤트 웹 서비스](https://www.tradedata.kr/)
 <br/>
